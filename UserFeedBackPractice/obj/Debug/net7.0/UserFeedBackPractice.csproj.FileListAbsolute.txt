@@ -1,0 +1,15 @@
+C:\netprojects\UserFeedBackPracticeSLN\UserFeedBackPractice\bin\Debug\net7.0\UserFeedBackPractice.exe
+C:\netprojects\UserFeedBackPracticeSLN\UserFeedBackPractice\bin\Debug\net7.0\UserFeedBackPractice.deps.json
+C:\netprojects\UserFeedBackPracticeSLN\UserFeedBackPractice\bin\Debug\net7.0\UserFeedBackPractice.runtimeconfig.json
+C:\netprojects\UserFeedBackPracticeSLN\UserFeedBackPractice\bin\Debug\net7.0\UserFeedBackPractice.dll
+C:\netprojects\UserFeedBackPracticeSLN\UserFeedBackPractice\bin\Debug\net7.0\UserFeedBackPractice.pdb
+C:\netprojects\UserFeedBackPracticeSLN\UserFeedBackPractice\obj\Debug\net7.0\UserFeedBackPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\netprojects\UserFeedBackPracticeSLN\UserFeedBackPractice\obj\Debug\net7.0\UserFeedBackPractice.AssemblyInfoInputs.cache
+C:\netprojects\UserFeedBackPracticeSLN\UserFeedBackPractice\obj\Debug\net7.0\UserFeedBackPractice.AssemblyInfo.cs
+C:\netprojects\UserFeedBackPracticeSLN\UserFeedBackPractice\obj\Debug\net7.0\UserFeedBackPractice.csproj.CoreCompileInputs.cache
+C:\netprojects\UserFeedBackPracticeSLN\UserFeedBackPractice\obj\Debug\net7.0\UserFeedBackPractice.dll
+C:\netprojects\UserFeedBackPracticeSLN\UserFeedBackPractice\obj\Debug\net7.0\refint\UserFeedBackPractice.dll
+C:\netprojects\UserFeedBackPracticeSLN\UserFeedBackPractice\obj\Debug\net7.0\UserFeedBackPractice.pdb
+C:\netprojects\UserFeedBackPracticeSLN\UserFeedBackPractice\obj\Debug\net7.0\UserFeedBackPractice.genruntimeconfig.cache
+C:\netprojects\UserFeedBackPracticeSLN\UserFeedBackPractice\obj\Debug\net7.0\ref\UserFeedBackPractice.dll
+C:\netprojects\UserFeedBackPracticeSLN\UserFeedBackPractice\obj\Debug\net7.0\UserFeedBackPractice.sourcelink.json
